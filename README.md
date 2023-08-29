@@ -1,1 +1,1 @@
-I'm a ful stack software engineer
+I'm a full stack software engineer
